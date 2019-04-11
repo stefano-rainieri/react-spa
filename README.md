@@ -1,2 +1,3 @@
-# react-spa
-⚛️ React Single Page Application
+# ⚛️ React Single Page Application
+
+React SPA for learning purposes.
